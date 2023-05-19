@@ -4,7 +4,7 @@
 * Người dùng là người có quyền *“Document_Delete”* có thể thực hiện các chức năng xem, tìm kiếm, khôi phục một tệp/chứng từ đã xóa, xóa vĩnh viễn một tệp/chứng từ hoặc xóa vĩnh viễn tất cả các tệp/chứng từ đã xóa trong hệ thống.
 ## **1.2. Yêu cầu giao diện**
 ### Màn hình quản lý chính quản lý các tệp đã xóa
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.001.png" style="text-align:center; height:350px; width:700px"/>
+<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.001.png" style="text-align:center; height:360px; width:700px"/>
 <div style="text-align: center; margin-left: 5px;"><u><strong>Hình 1:</strong></u> Màn hình quản lý các tệp đã xóa</div>
 <br>
 
