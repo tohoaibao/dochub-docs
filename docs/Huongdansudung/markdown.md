@@ -4,9 +4,9 @@
 * Người dùng là người có quyền *“Document_Delete”* có thể thực hiện các chức năng xem, tìm kiếm, khôi phục một tệp/chứng từ đã xóa, xóa vĩnh viễn một tệp/chứng từ hoặc xóa vĩnh viễn tất cả các tệp/chứng từ đã xóa trong hệ thống.
 ## **1.2. Yêu cầu giao diện**
 ### Màn hình quản lý chính quản lý các tệp đã xóa
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.001.png" style="text-align:center; height:360px; width:700px;"/>
-<div style="text-align: center; margin-left: 5px;"><u><strong>Hình 1:</strong></u> Màn hình quản lý các tệp đã xóa</div>
-<br>
+![Hinh1](./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.001.png)
+
+**Hình 1:** Màn hình quản lý các tệp đã xóa
 
 * Hiển thị danh sách các tệp đã xóa theo dạng bảng.
 * Các thông tin tệp đã xóa bao gồm: Thông tin tệp/Chứng từ, Vị trí gốc, Ngày xóa, Hành động.
@@ -14,31 +14,29 @@
 * Nút *“Tìm kiếm”* danh sách các tệp đã xóa nằm dưới dòng cuối cùng, được canh lề trái và nằm cùng với công cụ tìm kiếm.
 * Nút *“Dọn sạch”* nằm trên tiêu đề bảng *“Danh sách các tệp đã xóa”*, nằm trên baner và được canh lề phải.
 ### **1.2.1. Màn hình Xem trước**
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.002.png" style="text-align:center; width:800px; height:375px;"/>
+![Hinh2](./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.002.png)
 
-<div style="text-align: center; margin-left:40px;"><u><strong>Hình 2:</strong></u> Màn hình Xem trước chứng từ trong danh sách đã xóa</div>
-<br>
+**Hình 2:** Màn hình Xem trước chứng từ trong danh sách đã xóa
+
 
 * Nội dung chi tiết của chứng từ được hiển thị
 * Chức năng Xem thông tin chi tiết chứng từ, Danh sách người nhận, Chứng từ liên quan, Tệp tin đính kèm & Người dùng được chia sẻ, Tin nhắn trao đổi, Lịch sử chứng từ nằm canh lề bên phải màn hình (tương tự màn hình xem chứng từ màn hình Danh sách chứng từ)
 ### **1.2.2. Màn hình xác nhận Dọn sách (xóa vĩnh viễn tất cả các tệp trong danh sách)**
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.003.png" style="text-align:center; height:300px; width:640px;"/>
-<div style="text-align: center; margin-left:25px;"><u><strong>Hình 3:</strong></u> Xác nhận xóa vĩnh viễn tất cả các tệp đã xóa</div>
-<br>
+![Hinh3](./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.003.png)
+
+**Hình 3:** Xác nhận xóa vĩnh viễn tất cả các tệp đã xóa
 
 * Hiển thị hộp hội thoại xác nhận có nội dung xác nhận thao tác xóa vĩnh viễn tất cả các tệp trong danh sách và 02 nút *“Đóng”* và *“Xác nhận”* bên trong phía dưới hộp hội thoại.
 ### **1.2.3. Màn hình Xem danh sách các tệp đã xóa** 
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.004.png" style="text-align:center; height:110px; width:700px;"/>
+![Hinh4](./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.004.png)
 
-<div style="text-align: center;margin-left:30px;"><u><strong>Hình 4:</strong></u> Màn hình Xem danh sách các tệp đã xóa</div>
-<br>
+**Hình 4:** Màn hình Xem danh sách các tệp đã xóa
 
 * Thông tin chi tiết của một tệp đã xóa được hiển thị trên từng dòng của danh sách. Bao gồm các thông tin: Tên tệp, Người tạo, Ngày xóa, Kích cỡ tệp, loại tệp, Hành động.
 * Chức năng Xem chứng từ, Khôi phục, Xóa vĩnh viễn từng tệp đã xóa được đặt trên cùng dòng và nằm ở cột cuối cùng.
 ### **1.2.4. Màn hình Xác nhận xóa vĩnh viễn một tệp đã xóa**
-<img src="./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.005.png" style="text-align:center; height:250px; width:700px;"/>
+![Hinh5](./image/Aspose.Words.85c484d6-cbe2-464d-aa30-6c15a9007e31.005.png)
 
-<div style="text-align: center;margin-left:35px;"><u><strong>Hình 5:</strong></u> Màn hình xác nhận xóa vĩnh viễn một tệp đã xóa</div>
-<br>
+**Hình 5:** Màn hình xác nhận xóa vĩnh viễn một tệp đã xóa
 
 * Hiển thị hộp hội thoại xác nhận có nội dung xác nhận thao tác xóa vĩnh viễn một tệp cụ thể trong danh sách và 02 nút *"Đóng"* và *"Xác nhận"* bên trong phía dưới hộp hội thoại.
