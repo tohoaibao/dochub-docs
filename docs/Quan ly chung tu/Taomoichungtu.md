@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# tạo mới chứng từ
+# Tạo mới chứng từ
 
 ## Module 1: Quản lý danh sách chứng từ đã xóa
 ### **1.1. Mô tả tóm tắt**

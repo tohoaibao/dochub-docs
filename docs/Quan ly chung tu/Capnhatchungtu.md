@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-# cập nhật chứng từ
+# Cập nhật chứng từ
 ## Module 1: Quản lý danh sách chứng từ đã xóa
 ### **1.1. Mô tả tóm tắt**
 * Cho phép người dùng hệ thống có thể quản lý tất cả các tệp, chứng từ đã xóa trong thời gian 30 ngày kể từ ngày xóa từ 2 màn hình: Danh sách chứng từ, Quản lý chứng từ của tôi (phát triển sau) 
