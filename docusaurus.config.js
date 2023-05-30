@@ -74,11 +74,6 @@ const config = {
             position: "left",
             label: "Tutorial",
           },
-          {
-            type:"SearchBar",
-            SearchBarId: "tutorialSearchBar",
-            position: "right",
-          },
           { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/tohoaibao/dochub-docs",
