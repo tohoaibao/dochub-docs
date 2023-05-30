@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "DocHub",
   tagline: "Dinosaurs are cool",
-  favicon: "img/favicon.ico",
+  favicon: "img/Faviicon.ico",
 
   // Set the production url of your site here
   url: "https://your-docusaurus-test-site.com",
@@ -60,7 +60,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
+      image: "img/Logo.jpg",
       navbar: {
         title: "DocHub",
         logo: {
@@ -73,6 +73,11 @@ const config = {
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Tutorial",
+          },
+          {
+            type:"SearchBar",
+            SearchBarId: "tutorialSearchBar",
+            position: "right",
           },
           { to: "/blog", label: "Blog", position: "left" },
           {
