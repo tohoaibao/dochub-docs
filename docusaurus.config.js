@@ -59,6 +59,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia:{
+        apiKey:'afbde3a0d7b2cfe70d85e87fdedc7c9a',
+        indexName:'Huongdan',
+        contextualSearch: true,
+        placeholder:'Search',
+        appId:'Q6DUGWDRO5',
+      },
       // Replace with your project's social card
       image: "img/Logo.jpg",
       navbar: {

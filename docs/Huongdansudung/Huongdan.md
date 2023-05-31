@@ -2,7 +2,6 @@
 sidebar_position: 1
 ---
 
-
 # Hướng dẫn sử dụng 
 ## Module 1: Quản lý danh sách chứng từ đã xóa 
 ### **1.1. Mô tả tóm tắt**
@@ -48,3 +47,5 @@ sidebar_position: 1
 **Hình 5:** Màn hình xác nhận xóa vĩnh viễn một tệp đã xóa
 
 * Hiển thị hộp hội thoại xác nhận có nội dung xác nhận thao tác xóa vĩnh viễn một tệp cụ thể trong danh sách và 02 nút *"Đóng"* và *"Xác nhận"* bên trong phía dưới hộp hội thoại.
+
+
