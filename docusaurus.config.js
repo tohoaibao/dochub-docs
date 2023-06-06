@@ -11,7 +11,7 @@ const config = {
   favicon: "img/Faviicon.ico",
 
   // Set the production url of your site here
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://dochub-docs.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -65,6 +65,13 @@ const config = {
         contextualSearch: true,
         placeholder:'Search',
         appId:'Q6DUGWDRO5',
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)ee
+      searchPagePath: 'search',
+
+      //... other Algolia params
       },
       // Replace with your project's social card
       image: "img/Logo.jpg",

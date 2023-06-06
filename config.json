@@ -1,7 +1,10 @@
 {
     "index_name": "Huongdan",
+    "start_URL":[
+       "https://dochub-docs.vercel.app/"
+    ],
     "sitemap_urls": [
-      "https://your-docusaurus-test-site.com/sitemap.xml"
+      "https://dochub-docs.vercel.app/sitemap.xml"
     ],
     "stop_urls": [
       "/search",
