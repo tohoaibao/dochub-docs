@@ -1,3 +1,7 @@
+---
+sidebar_position: 6
+---
+
 # 6. Tạo mới chứng từ
 Tính năng cho phép người dùng tạo mới chứng từ từ 3 loại file: 
  * Tạo mới chứng từ bằng cách upload tệp tin
