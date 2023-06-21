@@ -79,7 +79,7 @@ const config = {
   ],
   title: "DocHub",
   tagline: "Dinosaurs are cool",
-  favicon: "img/Faviicon.ico",
+  favicon: "./img/Faviicon.ico",
 
   // Set the production url of your site here
   url: "http://192.168.0.6:3000",
@@ -132,12 +132,11 @@ const config = {
     ({
       
       // Replace with your project's social card
-      image: "img/Logo.jpg",
+      image: "./img/Logo.jpg",
       navbar: {
-        title: "DocHub",
         logo: {
           alt: "DocHub Logo",
-          src: "img/logo.svg",
+          src: "./img/Logo.jpg",
         },
         items: [
           {
