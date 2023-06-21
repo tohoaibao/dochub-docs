@@ -2,8 +2,8 @@
 sidebar_position: 8
 ---
 
-# 8. Ký số VNPT SmartCA cá nhân (App VNPT SmartCA)
-## 8.1. Ký số một chứng từ bằng app VNPT SmartCA cho cá nhân
+# 8.Ký số VNPT SmartCA cá nhân (App VNPT SmartCA)
+## 8.1.Ký số một chứng từ bằng app VNPT SmartCA cho cá nhân
 Trước khi thực hiện ký số SmartCA, người dùng cần thực hiện:
 * Đăng ký và cài đặt sử dụng app VNPT SmartCA trên thiết bị di động để thực hiện ký số chứng từ bằng SmartCA.
 * Kiểm tra và chọn đúng phương pháp ký số “VNPT SmartCA” trên hệ thống DocHub.
@@ -44,7 +44,7 @@ Hình 76: Link và Mã xử lý chứng từ được thông báo qua Email
 
 Hình 77: Mã xử lý được thông báo qua SMS
 
-## 8.2. Ký số hàng loạt (nhiều) chứng từ bằng app VNPT SmartCA cho cá nhân
+## 8.2.Ký số hàng loạt (nhiều) chứng từ bằng app VNPT SmartCA cho cá nhân
 - Cho phép người dùng xử lý hàng loạt chứng từ (cùng lúc nhiều chứng từ) trong cùng một lô import hoặc không cùng một lô.
 - Điều kiện để xử lý hàng loạt chứng từ theo lô: chứng từ xử lý phải cùng một lô import và cùng quyền xử lý ký số.
 - Điều kiện để xử lý hàng loạt chứng từ không cùng một lô: chứng từ xử lý phải cùng cùng quyền xử lý ký số.
@@ -101,7 +101,7 @@ Hình 85: Thông báo ký số thành công trên app VNPT SmartCA
 
 Hình 86: Thông báo chứng từ được ký thành công trên hệ thống DocHub
 
-## 8.3. Từ chối ký số chứng từ
+## 8.3.Từ chối ký số chứng từ
 
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, tại màn hình xử lý chứng từ người xử lý nhấn nút “Từ chối” để từ chối ký chứng từ:
 

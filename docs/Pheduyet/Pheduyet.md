@@ -2,8 +2,8 @@
 sidebar_position: 12
 ---
 
-# 12. Phê duyệt chứng từ
-## 12.1. Phê duyệt một chứng từ
+# 12.Phê duyệt chứng từ
+## 12.1.Phê duyệt một chứng từ
 Người thực hiện phê duyệt chứng từ sử dụng Link hoặc Mã xử lý được hệ thống thông báo qua Email hoặc SMS:
 
 ![Hinh169](./image/Phe1.png)

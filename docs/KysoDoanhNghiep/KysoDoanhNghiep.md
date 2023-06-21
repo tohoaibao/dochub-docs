@@ -2,8 +2,8 @@
 sidebar_position: 9
 ---
 
-# 9. Ký số VNPT SmartCA doanh nghiệp (TOTP)
-## 9.1. Ký số VNPT SmartCA doanh nghiệp (TOTP)
+# 9.Ký số VNPT SmartCA doanh nghiệp (TOTP)
+## 9.1.Ký số VNPT SmartCA doanh nghiệp (TOTP)
 Ký số VNPT SmartCA doanh nghiệp hỗ trợ cho doanh nghiệp ký số hàng loạt (số lượng lớn) chứng từ bằng TOTP. Trước khi thực hiện ký số SmartCA, người dùng cần thực hiện:
 * Đăng ký và đăng nhập tài khoản VNPT SmartCA doanh nghiệp tại: https://demorms.vnptit.vn/ (Nếu đã có tài khoản doanh nghiệp bạn có thể bỏ qua bước này)
 * Lấy thông tin mã TOTP (copy mã TOTP)
@@ -109,7 +109,7 @@ Hình 108: Cửa sổ yêu cầu người dùng xác nhận ký số chứng t�
 
 Hình 109: Ký số TOTP thành công
 
-## 9.2. Từ chối ký số VNPT SmartCA doanh nghiệp (TOTP)
+## 9.2.Từ chối ký số VNPT SmartCA doanh nghiệp (TOTP)
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, tại màn hình xử lý chứng từ người xử lý nhấn nút “Từ chối” để từ chối ký chứng từ:
 
 ![Hinh110](./image/KysoDoanhNghiep18.png)

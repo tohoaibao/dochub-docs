@@ -2,8 +2,8 @@
 sidebar_position: 11
 ---
 
-# 11. Ký nháy (ký điện tử) chứng từ
-## 11.1. Ký nháy một chứng từ
+# 11.Ký nháy (ký điện tử) chứng từ
+## 11.1.Ký nháy một chứng từ
 * **Bước 1: Nhận thông báo chứng từ cần xử lý**
 
 Người thực hiện ký chứng từ sử dụng Link hoặc Mã xử lý được hệ thống thông báo qua Email hoặc SMS:
@@ -79,7 +79,7 @@ Nhấn “Xác nhận” để hoàn tất ký nháy chứng từ:
 
 ![Hinh156](./image/Kynhay13.png)
 
-## 11.2. Ký nháy hàng loạt (nhiều) chứng từ
+## 11.2.Ký nháy hàng loạt (nhiều) chứng từ
 - Tính năng cho phép người dùng ký nháy hàng loạt chứng từ cùng lô hoặc không cùng lô.
 - Điều kiện để ký nháy hàng loạt chứng từ theo lô: chứng từ xử lý phải cùng một lô import và cùng quyền xử lý ký nháy.
 - Điều kiện để ký nháy hàng loạt chứng từ không cùng một lô: chứng từ xử lý phải cùng cùng quyền xử lý ký nháy.
@@ -108,7 +108,7 @@ Hình 161: Màn hình ký nháy chứng từ hàng loạt
 - Người dùng thực hiện ký nháy chứng từ tương tự như xử lý ký nháy một chứng từ (Xem hướng dẫn Bước 4 tại mục 11.1)
 - Ngoài ra, người dùng thực hiện nhấn <- hoặc -> để review chứng từ hoặc xem “Danh sách chứng từ” trước khi xử lý hàng loạt chứng từ không cùng lô hoặc không cùng một lô.
 
-## 11.3. Từ chối ký nháy chứng từ
+## 11.3.Từ chối ký nháy chứng từ
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, sau khi hoàn thành bước 2 (Mở màn hình xử lý chứng từ) người ký nhấn nút “Từ chối” để từ chối ký chứng từ:
 
 ![Hinh162](./image/Kynhay19.png)

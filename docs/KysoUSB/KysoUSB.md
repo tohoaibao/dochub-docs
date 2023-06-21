@@ -2,8 +2,8 @@
 sidebar_position: 10
 ---
 
-# 10. Ký số USB Token
-## 10.1. Ký số USB Token một chứng từ
+# 10.Ký số USB Token
+## 10.1.Ký số USB Token một chứng từ
 Trước khi thực hiện ký số bằng USB Token, người ký cần thực hiện: 
 * Cài đặt plugin ký số của VNPT.
 * Kiểm tra và chọn đúng phương pháp ký số “Ký số USB Token” trên hệ thống DocHub.
@@ -143,7 +143,7 @@ Hình 135: Chọn các chứng từ cần xử lý
 
 Hình 136: Màn hình xử lý chứng từ hàng loạt theo lô
 
-## 10.3. Từ chối ký số chứng từ
+## 10.3.Từ chối ký số chứng từ
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, sau khi hoàn thành bước 2 (Mở màn hình xử lý chứng từ) người ký nhấn nút “Từ chối” để từ chối ký chứng từ:
 
 ![Hinh137](./image/KysoUSB22.png)
