@@ -79,7 +79,11 @@ const config = {
   ],
   title: "DocHub",
   tagline: "Dinosaurs are cool",
+<<<<<<< HEAD
   favicon: "./img/Faviicon.ico",
+=======
+  favicon: "img/Faviicon.ico",
+>>>>>>> remotes/origin/main
 
   // Set the production url of your site here
   url: "http://192.168.0.6:3000",
@@ -132,7 +136,11 @@ const config = {
     ({
       
       // Replace with your project's social card
+<<<<<<< HEAD
       image: "./img/Logo.jpg",
+=======
+      image: "img/Logo.jpg",
+>>>>>>> remotes/origin/main
       navbar: {
         logo: {
           alt: "DocHub Logo",
@@ -145,6 +153,11 @@ const config = {
             position: "left",
             label: "Tutorial",
           },
+<<<<<<< HEAD
+=======
+          
+          { to: "/blog", label: "Blog", position: "left" },
+>>>>>>> remotes/origin/main
           {
             href: "https://github.com/tohoaibao/dochub-docs",
             label: "GitHub",
