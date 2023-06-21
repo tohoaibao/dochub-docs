@@ -91,7 +91,6 @@ Hình 105: Màn hình kết quả danh sách các chứng từ trong lô cùng q
 - Chọn danh sách các chứng từ cần ký số:
 
 ![Hinh106](./image/KysoDoanhNghiep14.png)
-
 Hình 106: Chọn các chứng từ cần xử lý ký số
 - Tại đây, người dùng thực hiện ký số chứng từ cùng lô tương tự như xử lý ký số chứng từ không theo lô.
 - Ngoài ra, người dùng thực hiện nhấn <- hoặc -> để review chứng từ hoặc xem “Danh sách chứng từ” trước khi xử lý hàng loạt chứng từ cùng lô.

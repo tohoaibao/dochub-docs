@@ -41,7 +41,7 @@ Một số trường thông tin không bắt buộc khác, tuy nhiên để ti�
 * Mô tả
 * Tải thêm tệp đính kèm hoặc chọn các chứng từ liên quan đã có trên hệ thống
 
-Ngoài ra, người dùng có thể sử dụng tính năng tự tạo mã và tiêu đề chứng từ tự động của hệ thống, tuy nhiên để sử dụng được tính năng này, người dùng cần có sẵn “Loại chứng từ” và “Bộ phận”. Quy tắc mã và tiêu đề chứng từ tự tạo của hệ thống như sau:
+Ngoài ra, người dùng có thể sử dụng tính năng tự tạo mã và tiêu đề chứng từ tự động của hệ thống , tuy nhiên để sử dụng được tính năng này, người dùng cần có sẵn “Loại chứng từ” và “Bộ phận”. Quy tắc mã và tiêu đề chứng từ tự tạo của hệ thống như sau:
 * Mã chứng từ: **[Mã Bộ phận].[Mã Loại chứng từ].[Thời gian YYYY-MM-DD].[Mã ngẫu nhiên]:**
   * Ví dụ: PTGP1.TEST.20221218.K3B
 * Tiêu đề chứng từ: **[Chứng từ Mã Bộ phận].[Mã Loại chứng từ].[Thời gian YYYY-MM-DD].[Mã ngẫu nhiên]:**
