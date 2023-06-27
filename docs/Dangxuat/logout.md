@@ -1,5 +1,6 @@
 ---
-sidebar_position: 4
+sidebar_label: 'Đăng xuất'
+sidebar_position: 2
 ---
 # 4.Đăng xuất
 Dùng chức năng Đăng xuất ở bảng điều khiển phía trái màn hình hoặc trên thông tin tài khoản ở góc phải màn hình để thoát khỏi hệ thống.

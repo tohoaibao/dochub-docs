@@ -1333,6 +1333,11 @@
   resolved "https://registry.npmjs.org/@discoveryjs/json-ext/-/json-ext-0.5.7.tgz"
   integrity sha512-dBVuXR082gk3jsFp7Rd/JI4kytwGHecnCoTtXFb7DB6CNHp4rg5k1bhg0nWdLGLnOV71lmDzGQaLMy8iPLY0pw==
 
+"@docsearch/css@^3.5.1":
+  version "3.5.1"
+  resolved "https://registry.npmjs.org/@docsearch/css/-/css-3.5.1.tgz"
+  integrity sha512-2Pu9HDg/uP/IT10rbQ+4OrTQuxIWdKVUEdcw9/w7kZJv9NeHS6skJx1xuRiFyoGKwAzcHXnLp7csE99sj+O1YA==
+
 "@docsearch/css@3.4.0":
   version "3.4.0"
   resolved "https://registry.npmjs.org/@docsearch/css/-/css-3.4.0.tgz"
