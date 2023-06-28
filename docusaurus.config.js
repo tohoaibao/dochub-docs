@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DocHub',
   // tagline: 'Dinosaurs are cool',
-  favicon: "./img/Faviicon.ico",
+  favicon: ".\img\Faviicon.ico",
 
   // Set the production url of your site here
   url: "https://dochub-docs.vercel.app/",
@@ -97,7 +97,7 @@ const config = {
         // title: 'Tài liệu hướng dẫn sử dụng DocHub1',
         logo: {
           alt: 'DocHub',
-          src: 'img/logo.svg',
+          src: 'img/logo.jpg',
         },
         items: [
           {
