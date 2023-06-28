@@ -1,5 +1,5 @@
-import React from 'react';
-import SearchBar from '@theme-original/SearchBar';
+// import React from 'react';
+// import SearchBar from '@theme-original/SearchBar';
 
 // import { configure } from 'instantsearch.js';
 // import { searchBox } from 'instantsearch.js/es/widgets';
@@ -34,6 +34,20 @@ import '@docsearch/css';
 docsearch({
   container: '#docsearch',
   appId: 'JILNIO12KM',
-  indexName: 'DocHub_AlgoliaDocSearch',
-  apiKey: 'YOUR_SEARCH_API_KEY',
+  indexName: 'crawler_DocHub_AlgoliaDocSearch',
+  apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
+  searchParameters: {
+    facetFilters: ['language:en', 'version:1.0.0'],
+  },
+  insights: true,
 });
+
+// docsearch({
+//   appId: 'R2IYF7ETH7',
+//   apiKey: '599cec31baffa4868cae4e79f180729b',
+//   indexName: 'docsearch',
+//   searchParameters: {
+//     facetFilters: ['language:en', 'version:1.0.0'],
+//   },
+//   insights: true,
+// });
