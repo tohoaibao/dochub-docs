@@ -11,7 +11,7 @@ const config = {
   favicon: "img/Faviicon.ico",
 
   // Set the production url of your site here
-  url: "https://dochub-docs.vercel.app/docs/Dangnhap/",
+  url: "https://dochub-docs.vercel.app/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -70,7 +70,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
   
-        indexName: 'DocHub_AlgoliaDocSearch',
+        indexName: 'crawler_DocHub_crawler',
   
         // Optional: see doc section below
         contextualSearch: true,

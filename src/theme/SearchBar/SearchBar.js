@@ -58,10 +58,10 @@ docsearch({
   appId: 'JILNIO12KM',
 
 
-  apiKey: '1561f389dce2ad66c931c3edca96fe67',
+  apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
 
 
-  indexName: 'Dangnhap',
+  indexName: 'crawler_DocHub_crawler',
 
 
   container: '#docsearch',
