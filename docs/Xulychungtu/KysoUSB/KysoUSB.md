@@ -12,7 +12,7 @@ Thông tin tải plugin ký số của VNPT: truy cập vào link https://kyso.v
 
 ![Hinh117](./image/KysoUSB1.png)
 
-Hình 117: Thông tin tải plugin ký số của VNPT
+<center>Hình 117: Thông tin tải plugin ký số của VNPT</center>
 
 Sau khi hoàn thành cài đặt plugin ký số, tiến hành kiểm tra thông tin tài khoản trên hệ thống DocHub đã chọn đúng phương pháp ký số là Ký số USB Token chưa, nếu chưa thì chọn lại cho đúng và lưu lại cập nhập:
 
@@ -20,7 +20,7 @@ Vào “**Quản lý tài khoản**” > Chọn “**Cập nhật thông tin**�
 
 ![Hinh118](./image/KysoUSB2.png)
 
-Hình 118: Chọn phương pháp ký "Ký số USB Token"
+<center>Hình 118: Chọn phương pháp ký "Ký số USB Token"</center>
 
 Tiến hành ký số chứng từ bằng Ký số USB Token:
 * **Bước 1**: Nhận thông báo chứng từ cần xử lý
@@ -29,11 +29,12 @@ Người thực hiện ký số chứng từ sử dụng Link hoặc Mã xử l�
 
 ![Hinh119](./image/KysoUSB3.png)
 
-Hình 119: Link và Mã xử lý chứng từ được thông báo qua Email
+<center>Hình 119: Link và Mã xử lý chứng từ được thông báo qua Email</center>
 
 ![Hinh120](./image/KysoUSB4.png)
 
-Hình 120: Mã xử lý được thông báo qua SMS
+<center>Hình 120: Mã xử lý được thông báo qua SMS</center>
+
 * **Bước 2**: Mở màn hình xử lý chứng từ
 
 Nhấn vào link xử lý trong email thông báo chứng từ (bước 2) để vào màn hình xử lý chứng từ để thực hiện ký số chứng từ. 
@@ -42,11 +43,11 @@ Trường hợp sử dụng Mã xử lý thì phải đăng nhập vào hệ th�
 
 ![Hinh121](./image/KysoUSB5.png)
 
-Hình 121: Đăng nhập bằng mã xử lý để vào màn hình xử lý chứng từ
+<center>Hình 121: Đăng nhập bằng mã xử lý để vào màn hình xử lý chứng từ</center>
 
 ![Hinh122](./image/KysoUSB6.png)
 
-Hình 122: Màn hình xử lý chứng từ
+<center>Hình 122: Màn hình xử lý chứng từ</center>
 
 * **Bước 3**: Ký số chứng từ
 
@@ -58,35 +59,35 @@ Thực hiện điều chỉnh các thông tin trước khi ký số (nếu cần
 
 ![Hinh123](./image/KysoUSB7.png)
 
-Hình 123: Các thông tin về chữ ký mà người ký có thể cập nhật trước khi ký chứng từ
+<center>Hình 123: Các thông tin về chữ ký mà người ký có thể cập nhật trước khi ký chứng từ</center>
 
 Để thay đổi hình ảnh chữ ký, Nhấn “**Thêm hình**” để cập nhật hình ảnh chữ lý hoặc vẽ hình ảnh chữ ký của bạn, nhấn “**Thêm hình chữ ký**” để sử dụng hình ảnh:
 
 ![Hinh124](./image/KysoUSB8.png)
 
-Hình 124: Cập nhật hình ảnh chữ ký
+<center>Hình 124: Cập nhật hình ảnh chữ ký</center>
 
 Sau khi đã cập nhật các thông tin và hình ảnh chữ ký, nhấn nút “Ký số bằng VNPT-CA Plugin” trên màn hình để thực hiện ký số chứng từ, hệ thống máy tính sẽ hiển thị danh sách các chứng thư số của người dùng, người dùng chọn chứng thư số rồi nhấn “OK” để hoàn thành ký số.
 
 ![Hinh125](./image/KysoUSB9.png)
 
-Hình 125: Nhấn "Ký số bằng VNPT-CA Plugin" để ký số chứng từ
+<center>Hình 125: Nhấn "Ký số bằng VNPT-CA Plugin" để ký số chứng từ</center>
 
 ![Hinh126](./image/KysoUSB10.png)
 
-Hình 126: Màn hình đang xử lý yêu cầu của người dùng
+<center>Hình 126: Màn hình đang xử lý yêu cầu của người dùng</center>
 
 Hệ thống hiển thị danh sách chứng thư số, người dùng lựa chọn chứng thư số để thực hiện ký số chứng từ:
 
 ![Hinh127](./image/KysoUSB11.png)
 
-Hình 127: Danh sách chứng thư số của người dùng
+<center>Hình 127: Danh sách chứng thư số của người dùng</center>
 
 Chọn chứng thư số và nhấn “**OK**” để hoàn tất quá trình ký số bằng VNPT-CA plugin mặc định của hệ thống.
 
 ![Hinh128](./image/KysoUSB12.png)
 
-Hình 128: Thông báo chứng từ được ký thành công trên hệ thống DocHub
+<center>Hình 128: Thông báo chứng từ được ký thành công trên hệ thống DocHub</center>
 
 * Ký số bằng VNPT-CA plugin nâng cao:
 Check chọn “Ký nâng cao” và nhấn “Ký số bằng VNPT-CA plugin” để thực hiện ký số nâng cao bằng VNPT-CA plugin.
@@ -95,19 +96,19 @@ Check chọn “Ký nâng cao” và nhấn “Ký số bằng VNPT-CA plugin”
 
 ![Hinh129](./image/KysoUSB13.png)
 
-Hình 129: Chọn ký nâng cao VNPT-CA Plugin
+<center>Hình 129: Chọn ký nâng cao VNPT-CA Plugin</center>
 
 Với tính năng ký nâng cao này, người dùng có thể tùy chỉnh các chế độ ký với những tùy chọn nâng cao như: Mã hóa file, Gán nhãn thời gian, Hiển thị thông tin chữ ký, Vị trí và hình ảnh chữ ký, Giao diện chữ ký và các tùy chỉnh văn bản ký:
 
 ![Hinh130](./image/KysoUSB14.png)
 
-Hình 130: Các thông tin về chữ ký mà người ký có thể cập nhật trước khi ký chứng từ
+<center>Hình 130: Các thông tin về chữ ký mà người ký có thể cập nhật trước khi ký chứng từ</center>
 
 Sau khi đã cập nhật các thông tin và hình ảnh chữ ký, nhấn nút “Áp dụng” trên màn hình để hoàn thành ký số.
 
 ![Hinh131](./image/KysoUSB15.png)
 
-Hình 131: Thông báo chứng từ được ký thành công trên hệ thống DocHub
+<center>Hình 131: Thông báo chứng từ được ký thành công trên hệ thống DocHub</center>
 
 ## 10.2.Ký số USB Token hàng loạt (nhiều) chứng từ
 - Cho phép người dùng xử lý hàng loạt chứng từ (cùng lúc nhiều chứng từ) trong cùng một lô import hoặc không cùng một lô.
@@ -117,15 +118,15 @@ Hình 131: Thông báo chứng từ được ký thành công trên hệ thống
 
 ![Hinh132](./image/KysoUSB16.png)
 
-Hình 132: Mở bộ lọc nâng cao tại màn hình Danh sách chứng từ
+<center>Hình 132: Mở bộ lọc nâng cao tại màn hình Danh sách chứng từ</center>
 
 ![Hinh133](./image/KysoUSB17.png)
 
-Hình 133: Tìm kiếm lô chứng từ cần xử lý bằng bộ lọc nâng cao
+<center>Hình 133: Tìm kiếm lô chứng từ cần xử lý bằng bộ lọc nâng cao</center>
 
 ![Hinh134](./image/KysoUSB18.png)
 
-Hình 134: Màn hình kết quả danh sách các chứng từ trong lô cùng quyền xử lý
+<center>Hình 134: Màn hình kết quả danh sách các chứng từ trong lô cùng quyền xử lý</center>
 
 - Hoặc để tìm kiếm chứng từ có cùng quyền xử lý dành cho trường hợp xử lý hàng loạt chứng từ không cùng một lô. Tại màn hình “Danh sách chứng từ” sử dụng bộ lọc nhanh trên màn hình để tìm kiếm các chứng từ cùng quyền xử lý: ký số 
 
@@ -135,49 +136,50 @@ Hình 134: Màn hình kết quả danh sách các chứng từ trong lô cùng q
 
 ![Hinh135](./image/KysoUSB20.png)
 
-Hình 135: Chọn các chứng từ cần xử lý
+<center>Hình 135: Chọn các chứng từ cần xử lý</center>
+
 - Tại đây, người dùng thực hiện ký số chứng từ cùng lô tương tự như xử lý ký số chứng từ không theo lô.
 - Ngoài ra, người dùng thực hiện nhấn <- hoặc -> để review chứng từ hoặc xem “Danh sách chứng từ” trước khi xử lý hàng loạt chứng từ cùng lô.
 
 ![Hinh136](./image/KysoUSB21.png)
 
-Hình 136: Màn hình xử lý chứng từ hàng loạt theo lô
+<center>Hình 136: Màn hình xử lý chứng từ hàng loạt theo lô</center>
 
 ## 10.3.Từ chối ký số chứng từ
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, sau khi hoàn thành bước 2 (Mở màn hình xử lý chứng từ) người ký nhấn nút “Từ chối” để từ chối ký chứng từ:
 
 ![Hinh137](./image/KysoUSB22.png)
 
-Hình 137: Nhấn "Từ chối" để từ chối ký số chứng từ
+<center>Hình 137: Nhấn "Từ chối" để từ chối ký số chứng từ</center>
 
 * Trường hợp người dùng sử dụng xác thực 2 lớp: khi từ chối ký số chứng từ người ký phải nhập thêm lý do từ chối và mã OTP được thông báo qua Email hoặc SMS:
   
 ![Hinh138](./image/KysoUSB23.png)
 
-Hình 138: Trường hợp sử dụng xác thực 2 lớp
+<center>Hình 138: Trường hợp sử dụng xác thực 2 lớp</center>
 
 ![Hinh139](./image/KysoUSB24.png)
 
-Hình 139: Thông báo email mã OTP xác thực 2 lớp
+<center>Hình 139: Thông báo email mã OTP xác thực 2 lớp</center>
 
 ![Hinh140](./image/KysoUSB25.png)
 
-Hình 140: Thông báo SMS mã OTP xác thực 2 lớp
+<center>Hình 140: Thông báo SMS mã OTP xác thực 2 lớp</center>
 
 Nhập lý do và mã OTP để hoàn thành từ chối ký số chứng từ:
 
 ![Hinh141](./image/KysoUSB26.png)
 
-Hình 141: Nhập mã OTP để thực hiện từ chối ký số chứng từ
+<center>Hình 141: Nhập mã OTP để thực hiện từ chối ký số chứng từ</center>
 
 * Trường hợp người dùng không sử dụng xác thực 2 lớp: 
 
 ![Hinh142](./image/KysoUSB27.png)
 
-Hình 142: Trường hợp không sử dụng xác thực 2 lớp
+<center>Hình 142: Trường hợp không sử dụng xác thực 2 lớp</center>
 
 Nhấn “Xác nhận” để từ chối ký chứng từ:
 
 ![Hinh143](./image/KysoUSB28.png)
 
-Hình 143: Thông báo từ chối chừng từ thành công
+<center>Hình 143: Thông báo từ chối chừng từ thành công</center>

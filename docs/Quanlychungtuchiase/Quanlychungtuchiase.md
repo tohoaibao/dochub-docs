@@ -8,7 +8,7 @@ sidebar_position: 14
 
 ![Hinh199](./image/CTCS1.png)
 
-Hình 199: Màn hình "Chứng từ chia sẻ"
+<center>Hình 199: Màn hình "Chứng từ chia sẻ"</center>
 
 ## 14.1. Xem chứng từ:
 - Cho phép người dùng xem chi tiết một chứng từ cụ thể từ danh sách chứng từ được chia sẻ
@@ -16,11 +16,11 @@ Hình 199: Màn hình "Chứng từ chia sẻ"
 
 ![Hinh200](./image/CTCS2.png)
 
-Hình 200: Sử dụng tính năng xem chi tiết một chứng từ
+<center>Hình 200: Sử dụng tính năng xem chi tiết một chứng từ</center>
 
 ![Hinh201](./image/CTCS3.png)
 
-Hình 201: Màn hình chi tiết chứng từ
+<center>Hình 201: Màn hình chi tiết chứng từ</center>
 
 ## 14.2. Tìm kiếm chứng từ được chia sẻ:
 
@@ -29,5 +29,5 @@ Hình 201: Màn hình chi tiết chứng từ
 
 ![Hinh202](./image/CTCS4.png)
 
-Hình 202: Tìm kiếm chứng từ được chia sẻ với tôi
+<center>Hình 202: Tìm kiếm chứng từ được chia sẻ với tôi</center>
 

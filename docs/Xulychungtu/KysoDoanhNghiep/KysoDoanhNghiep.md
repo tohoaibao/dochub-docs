@@ -14,13 +14,13 @@ Thông tin đăng ký tài khoản: https://demorms.vnptit.vn/ (có thể bỏ q
 
 ![Hinh94](./image/KysoDoanhNghiep1.png)
 
-Hình 94: Đăng ký tài khoảng doanh nghiệp VNPT SmartCA
+<center>Hình 94: Đăng ký tài khoảng doanh nghiệp VNPT SmartCA</center>
 
 - Sau khi hoàn thành đăng ký tài khoản doanh nghiệp, tiến hành đăng nhập và lấy thông tin mã TOTP trên tài khoản doanh nghiệp VNPT SmartCA vừa đăng ký:
 
 ![Hinh95](./image/KysoDoanhNghiep2.png)
 
-Hình 95: Đăng nhập tài khoản VNPT SmartCA doanh nghiệp
+<center>Hình 95: Đăng nhập tài khoản VNPT SmartCA doanh nghiệp</center>
 
 - Lấy thông tin mã TOTP của doanh nghiệp:
   
@@ -28,25 +28,25 @@ Nhấn mũi tên đi xuống bên góc phải màn hình chỗ thông tin doanh 
 
 ![Hinh96](./image/KysoDoanhNghiep3.png)
 
-Hình 96: Vào màn hình "Tài khoản" để lấy mã TOTP
+<center>Hình 96: Vào màn hình "Tài khoản" để lấy mã TOTP</center>
 
 - Nhấn “Xem TOTP”
 
 ![Hinh97](./image/KysoDoanhNghiep4.png)
 
-Hình 97: Lấy thông tin mã TOTP doanh nghiệp
+<center>Hình 97: Lấy thông tin mã TOTP doanh nghiệp</center>
 
 - Nhập mã PIN và nhấn “Lấy mã TOTP”:
 
 ![Hinh98](./image/KysoDoanhNghiep5.png)
 
-Hình 98: Nhập mã pin để lấy mã TOTP doanh nghiệp
+<center>Hình 98: Nhập mã pin để lấy mã TOTP doanh nghiệp</center>
 
 - Sao chép mã TOTP trên tài khoản VNTP SmartCA doanh nghiệp, sau đó tiến hành truy cập vào hệ thống DocHub: https://dochub.devitkv2.com/ để thực hiện các bước tiếp theo:
 
 ![Hinh99](./image/KysoDoanhNghiep6.png)
 
-Hình 99: Sao chép mã TOTP để tiến hành ký số VNPT SmartCA doanh nghiệp (TOTP)
+<center>Hình 99: Sao chép mã TOTP để tiến hành ký số VNPT SmartCA doanh nghiệp (TOTP)</center>
 
 - Đăng nhập VNPT Smart-CA doanh nghiệp trên DocHub:
 
@@ -54,18 +54,19 @@ Vào “**Tài khoản**” > “**Quản lý tài khoản**” > Chọn “**Đ
 
 ![Hinh100](./image/KysoDoanhNghiep7.png)
 
-Hình 100: Đăng nhập tài khoản VNPT SmartCA doanh nghiệp trên DocHub
+<center>Hình 100: Đăng nhập tài khoản VNPT SmartCA doanh nghiệp trên DocHub</center>
 
 ![Hinh101](./image/KysoDoanhNghiep8.png)
 
-Hình 101: Đăng nhập thành công tài khoản VNPT SmartCA doanh nghiệp trên DocHub
+<center>Hình 101: Đăng nhập thành công tài khoản VNPT SmartCA doanh nghiệp trên DocHub</center>
+
 - Kiểm tra và cập nhật phương án ký VNPT SmartCA:
 
 Vào “**Tài khoản**” > “**Quản lý tài khoản**” > Chọn “**Cập nhật thông tin**” > Chọn “**Phương pháp ký**” là “**VNPT SmartCA**” > Nhấn “**Lưu**”
 
 ![Hinh102](./image/KysoDoanhNghiep9.png)
 
-Hình 102: Chọn phương pháp ký "VNPT SmartCA"
+<center>Hình 102: Chọn phương pháp ký "VNPT SmartCA"</center>
 
 Tiến hành ký số chứng từ bằng VNPT SmartCA doanh nghiệp (TOTP):
 - Cho phép người dùng là doanh nghiệp ký số hàng loạt chứng từ (cùng lúc nhiều chứng từ) trong cùng một lô import hoặc không cùng một lô.
@@ -75,15 +76,16 @@ Tiến hành ký số chứng từ bằng VNPT SmartCA doanh nghiệp (TOTP):
 
 ![Hinh103](./image/KysoDoanhNghiep10.png)
 
-Hình 103: Mở bộ lọc nâng cao tại màn hình Danh sách chứng từ
+<center>Hình 103: Mở bộ lọc nâng cao tại màn hình Danh sách chứng từ</center>
 
 ![Hinh104](./image/KysoDoanhNghiep11.png)
 
-Hình 104: Tìm kiếm lô chứng từ cần xử lý bằng bộ lọc nâng cao
+<center>Hình 104: Tìm kiếm lô chứng từ cần xử lý bằng bộ lọc nâng cao</center>
 
 ![Hinh105](./image/KysoDoanhNghiep12.png)
 
-Hình 105: Màn hình kết quả danh sách các chứng từ trong lô cùng quyền xử lý
+<center>Hình 105: Màn hình kết quả danh sách các chứng từ trong lô cùng quyền xử lý</center>
+
 - Hoặc để tìm kiếm chứng từ có cùng quyền xử lý dành cho trường hợp xử lý hàng loạt chứng từ không cùng một lô. Tại màn hình “Danh sách chứng từ” sử dụng bộ lọc nhanh trên màn hình để tìm kiếm các chứng từ cùng quyền xử lý: ký số
  
 ![Hinh106](./image/KysoDoanhNghiep13.png)
@@ -91,61 +93,62 @@ Hình 105: Màn hình kết quả danh sách các chứng từ trong lô cùng q
 - Chọn danh sách các chứng từ cần ký số:
 
 ![Hinh106](./image/KysoDoanhNghiep14.png)
-Hình 106: Chọn các chứng từ cần xử lý ký số
+<center>Hình 106: Chọn các chứng từ cần xử lý ký số</center>
+
 - Tại đây, người dùng thực hiện ký số chứng từ cùng lô tương tự như xử lý ký số chứng từ không theo lô.
 - Ngoài ra, người dùng thực hiện nhấn <- hoặc -> để review chứng từ hoặc xem “Danh sách chứng từ” trước khi xử lý hàng loạt chứng từ cùng lô.
 
 ![Hinh107](./image/KysoDoanhNghiep15.png)
 
-Hình 107: Màn hình xử lý chứng từ hàng loạt theo lô
+<center>Hình 107: Màn hình xử lý chứng từ hàng loạt theo lô</center>
 
 Nhấn “Xác nhận” và hệ thống sẽ xử lý ký số bằng TOTP doanh nghiệp:
 
 ![Hinh108](./image/KysoDoanhNghiep16.png)
 
-Hình 108: Cửa sổ yêu cầu người dùng xác nhận ký số chứng từ
+<center>Hình 108: Cửa sổ yêu cầu người dùng xác nhận ký số chứng từ</center>
 
 ![Hinh109](./image/KysoDoanhNghiep17.png)
 
-Hình 109: Ký số TOTP thành công
+<center>Hình 109: Ký số TOTP thành công</center>
 
 ## 9.2.Từ chối ký số VNPT SmartCA doanh nghiệp (TOTP)
 Trường hợp từ chối ký chứng từ, tương tự như ký chứng từ, tại màn hình xử lý chứng từ người xử lý nhấn nút “Từ chối” để từ chối ký chứng từ:
 
 ![Hinh110](./image/KysoDoanhNghiep18.png)
 
-Hình 110: Nhấn "Từ chối" để từ chối ký số chứng từ
+<center>Hình 110: Nhấn "Từ chối" để từ chối ký số chứng từ</center>
 
 * Trường hợp người dùng sử dụng xác thực 2 lớp: khi từ chối ký số chứng từ người ký phải nhập thêm lý do từ chối và mã OTP được thông báo qua Email hoặc SMS:
 
 ![Hinh111](./image/KysoDoanhNghiep19.png)
 
-Hình 111: Trường hợp sử dụng xác thực 2 lớp
+<center>Hình 111: Trường hợp sử dụng xác thực 2 lớp</center>
 
 ![Hinh112](./image/KysoDoanhNghiep20.png)
 
-Hình 112: Thông báo email mã OTP xác thực 2 lớp
+<center>Hình 112: Thông báo email mã OTP xác thực 2 lớp</center>
 
 Nhập lý do và mã OTP để hoàn thành từ chối ký số chứng từ:
 
 ![Hinh113](./image/KysoDoanhNghiep21.png)
 
-Hình 113: Nhập mã OTP để thực hiện từ chối ký số chứng từ
+<center>Hình 113: Nhập mã OTP để thực hiện từ chối ký số chứng từ</center>
 
 - Nếu người dùng sử dụng SMS làm phương án nhận OTP:
 
 ![Hinh114](./image/KysoDoanhNghiep22.png)
 
-Hình 114: Thông báo SMS mã OTP xác thực 2 lớp
+<center>Hình 114: Thông báo SMS mã OTP xác thực 2 lớp</center>
 
 - Trường hợp người dùng không sử dụng xác thực 2 lớp: 
 
 ![Hinh115](./image/KysoDoanhNghiep23.png)
 
-Hình 115: Trường hợp không sử dụng xác thực 2 lớp
+<center>Hình 115: Trường hợp không sử dụng xác thực 2 lớp</center>
 
 Nhấn “Xác nhận” để từ chối ký chứng từ:
 
 ![Hinh116](./image/KysoDoanhNghiep24.png)
 
-Hình 116: Thông báo từ chối chừng từ hàng loạt thành công
+<center>Hình 116: Thông báo từ chối chừng từ hàng loạt thành công</center>

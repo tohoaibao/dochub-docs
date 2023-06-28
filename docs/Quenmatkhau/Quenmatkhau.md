@@ -9,28 +9,28 @@ sidebar_position: 2
 
 ![Hinh2](./image/Quenmatkhau1.png)
 
-Hình 2: Màn hình đăng nhập hệ thống 
+<center>Hình 2: Màn hình đăng nhập hệ thống </center>
 
 ![Hinh3](./image/Quenmatkhau2.png)
 
-Hình 3: Tính năng Quên mật khẩu
+<center>Hình 3: Tính năng Quên mật khẩu</center>
 
 ![Hinh4](./image/Quenmatkhau3.png)
 
-Hình 4: Chọn phương pháp nhận mã xác nhận OTP
+<center>Hình 4: Chọn phương pháp nhận mã xác nhận OTP</center>
 
 ![Hinh5](./image/Quenmatkhau4.png)
 
-Hình 5: Mã OTP được gửi qua email
+<center>Hình 5: Mã OTP được gửi qua email</center>
 
 ![Hinh6](./image/Quenmatkhau5.png)
 
-Hình 6: Nhập mã OTP vào cửa sổ khôi phục mật khẩu
+<center>Hình 6: Nhập mã OTP vào cửa sổ khôi phục mật khẩu</center>
 
 ![Hinh7](./image/Quenmatkhau6.png)
 
-Hình 7: Tạo mật khẩu mới cho tài khoản
+<center>Hình 7: Tạo mật khẩu mới cho tài khoản</center>
 
 ![Hinh8](./image/Quenmatkhau7.png)
 
-Hình 8: Đăng nhập vào hệ thống bằng mật khẩu vừa khôi phục
+<center>Hình 8: Đăng nhập vào hệ thống bằng mật khẩu vừa khôi phục</center>

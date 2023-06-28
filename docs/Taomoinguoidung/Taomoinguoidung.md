@@ -8,14 +8,14 @@ sidebar_position: 5
 
 ![Hinh27](./image/Taomoinguoidung1.png)
 
-Hình 27: Màn hình danh sách người dùng
+<center>Hình 27: Màn hình danh sách người dùng</center>
 
 * **Bước 2: Mở cửa sổ Tạo mới người dùng**
   - Tại màn hình danh sách người dùng (bước 1), nhấn chọn nút **“Tạo mới”**, Cửa sổ **“Tạo mới người dùng”** xuất hiện và người dùng thực hiện cập nhật đầy đủ các thông tin cần thiết để tạo mới một người dùng. 
 
 ![Hinh28](./image/Taomoinguoidung2.png)
 
-Hình 28: Cửa sổ tạo mới người dùng
+<center>Hình 28: Cửa sổ tạo mới người dùng</center>
 
 * Có 2 sự lựa chọn cho tên đăng nhập người dùng:
   * Sử dụng email làm tên đăng nhập 
@@ -48,38 +48,41 @@ Sau khi hoàn thành cập nhật đầy đủ các thông tin trong cửa sổ 
 
 ![Hinh29](./image/Taomoinguoidung3.png)
 
-Hình 29: Điền đầy đủ thông tin của người dùng mới
+<center>Hình 29: Điền đầy đủ thông tin của người dùng mới</center>
 
 Hệ thống thông báo tạo mới người dùng thành công:
 
 ![Hinh30](./image/Taomoinguoidung4.png)
 
-Hình 30: Tạo mới một người dùng thành công
+<center>Hình 30: Tạo mới một người dùng thành công</center>
+
 * **Bước 4: Kiểm tra email hoặc SMS** 
   
     Thông tin về tài khoản vừa được tạo sẽ được hệ thống gửi đến địa chỉ email hoặc SMS qua số điện thoại của người dùng chọn sử dụng làm tên đăng nhập đã được đăng ký trước đó, người dùng thực hiện đăng nhập hệ thống theo thông tin tài khoản thông báo:
 
 ![Hinh31](./image/Taomoinguoidung5.png)
 
-Hình 31: Thông tin tài khoản được thông báo qua SMS
+<center>Hình 31: Thông tin tài khoản được thông báo qua SMS</center>
 
 ![Hinh32](./image/Taomoinguoidung6.png)
 
-Hình 32: Thông tin tài khoản được thông báo qua email
+<center>Hình 32: Thông tin tài khoản được thông báo qua email</center>
+
 ## 5.2. Import người dùng bằng file excel
 * **Bước 1: Truy cập vào màn hình danh sách người dùng**
 Tại màn hình trang chủ, người dùng truy cập **“Người dùng”** > **“Danh sách người dùng”** để truy cập vào màn hình danh sách người dùng: 
 
 ![Hinh33](./image/Taomoinguoidung7.png)
 
-Hình 33: Màn hình danh sách người dùng
+<center>Hình 33: Màn hình danh sách người dùng</center>
+
 * **Bước 2: Mở cửa sổ Import người dùng**
   
 Tại màn hình danh sách người dùng (bước 1), nhấn chọn nút “Import người dùng”, Cửa sổ “Import người dùng” xuất hiện và người dùng thực hiện cập nhật đầy đủ các thông tin cần thiết để import người dùng.
 
 ![Hinh34](./image/Taomoinguoidung8.png)
 
-Hình 34: Cửa sổ import người dùng
+<center>Hình 34: Cửa sổ import người dùng</center>
 
 * **Bước 3: Tải và cập nhật file mẫu import người dùng**
   
@@ -105,7 +108,7 @@ Một số lưu ý khi tạo người dùng bằng file import:
 
 ![Hinh35](./image/Taomoinguoidung9.png)
 
-Hình 35: File mẫu import người dùng
+<center>Hình 35: File mẫu import người dùng</center>
 
 * **Bước 4: Cập nhật thông tin cửa sổ import người dùng**
 
@@ -121,7 +124,7 @@ Ngoài ra, check chọn có sử dụng xác thực 2 lớp khi xử lý chứng
 
 ![Hinh36](./image/Taomoinguoidung10.png)
 
-Hình 36: Cập nhật đầy đủ thông tin import người dùng
+<center>Hình 36: Cập nhật đầy đủ thông tin import người dùng</center>
 
 * **Bước 5: Import người dùng**
   
@@ -131,7 +134,7 @@ Hệ thống thông báo import người dùng thành công:
 
 ![Hinh37](./image/Taomoinguoidung11.png)
 
-Hình 37: Import người dùng thành công
+<center>Hình 37: Import người dùng thành công</center>
 
 * **Bước 6: Kiểm tra email hoặc SMS**
  
@@ -139,8 +142,8 @@ Thông tin về tài khoản vừa được tạo sẽ được hệ thống g�
 
 ![Hinh38](./image/Taomoinguoidung12.png)
 
-Hình 38: Thông tin tài khoản được thông báo qua SMS
+<center>Hình 38: Thông tin tài khoản được thông báo qua SMS</center>
 
 ![Hinh39](./image/Taomoinguoidung13.png)
 
-Hình 39: Thông tin tài khoản được thông báo qua email
+<center>Hình 39: Thông tin tài khoản được thông báo qua email</center>

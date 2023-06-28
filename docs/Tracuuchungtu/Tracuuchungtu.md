@@ -10,21 +10,21 @@ sidebar_position: 7
 
 ![Hinh68](./image/tracuu1.png)
 
-Hình 68: Giao diện màn hình Tra cứu chứng từ
+<center>Hình 68: Giao diện màn hình Tra cứu chứng từ</center>
 
 ![Hinh69](./image/tracuu2.png)
 
-Hình 69: Tra cứu chứng từ theo mã chứng từ
+<center>Hình 69: Tra cứu chứng từ theo mã chứng từ</center>
 
 ![Hinh70](./image/tracuu3.png)
 
-Hình 70: Kết quả tìm kiếm chứng từ được hiển thị
+<center>Hình 70: Kết quả tìm kiếm chứng từ được hiển thị</center>
 
 ![Hinh71](./image/tracuu4.png)
 
-Hình 71: Truy cập vào Công ty/Chi nhánh chứa mã chứng từ vừa tra cứu
+<center>Hình 71: Truy cập vào Công ty/Chi nhánh chứa mã chứng từ vừa tra cứu</center>
 
 ![Hinh72](./image/tracuu5.png)
 
-Hình 72: Chứng từ trong màn hình Danh sách chứng từ trong Công ty/Chi nhánh vừa truy cập
+<center>Hình 72: Chứng từ trong màn hình Danh sách chứng từ trong Công ty/Chi nhánh vừa truy cập</center>
 

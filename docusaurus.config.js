@@ -1,4 +1,4 @@
-// @ts-check
+// @ts-nocheck
 // Note: type annotations allow type checking and IDEs autocompletion
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
@@ -65,12 +65,12 @@ const config = {
       // Replace with your project's social card
       algolia: {
         // The application ID provided by Algolia
-        appId: 'JILNIO12KM',
+        appId: 'Q6DUGWDRO5',
   
         // Public API key: it is safe to commit it
-        apiKey: '1561f389dce2ad66c931c3edca96fe67',
+        apiKey: 'afbde3a0d7b2cfe70d85e87fdedc7c9a',
   
-        indexName: 'Dangnhap',
+        indexName: 'Huongdan',
   
         // Optional: see doc section below
         contextualSearch: true,

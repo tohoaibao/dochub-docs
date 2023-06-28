@@ -15,15 +15,15 @@ Tại màn hình trang chủ, nhấn vào menu “Chứng từ” > “Danh sác
 
 ![Hinh40](./image/Taomoichungtu1.png)
 
-Hình 40: Màn hình trang chủ hệ thống DocHub
+<center>Hình 40: Màn hình trang chủ hệ thống DocHub</center>
 
 ![Hinh41](./image/Taomoichungtu2.png)
 
-Hình 41: Màn hình Danh sách chứng từ
+<center>Hình 41: Màn hình Danh sách chứng từ</center>
 
 ![Hinh42](./image/Taomoichungtu3.png)
 
-Hình 42: Màn hình tạo mới một chứng từ
+<center>Hình 42: Màn hình tạo mới một chứng từ</center>
 
 Tại màn hình tạo mới một chứng từ này, người dùng thực hiện chọn và nhập các thông tin của chứng từ, các trường bắt buộc bao gồm:
 * Tệp chứng từ (.pdf, .docx) 
@@ -51,11 +51,11 @@ Sau khi điền và tải lên tệp chứng từ, nhấn “Lưu và tiếp t�
 
 ![Hinh43](./image/Taomoichungtu4.png)
 
-Hình 43: Tạo các thông tin chứng từ
+<center>Hình 43: Tạo các thông tin chứng từ</center>
 
 ![Hinh44](./image/Taomoichungtu5.png)
 
-Hình 44: Thông báo bước 1 tạo chứng từ thành công
+<center>Hình 44: Thông báo bước 1 tạo chứng từ thành công</center>
 
 * **Bước 2: Thêm quy trình người nhận chứng từ**
   
@@ -63,29 +63,29 @@ Tại bước này, người dùng có thể sử dụng mẫu quy trình có s�
 
 ![Hinh45](./image/Taomoichungtu6.png)
 
-Hình 45: Thêm mới người nhận
+<center>Hình 45: Thêm mới người nhận</center>
 
 ![Hinh46](./image/Taomoichungtu7.png)
 
-Hình 46: Chọn người nhận có trên hệ thống để thêm vào quy trình xử lý chứng từ
+<center>Hình 46: Chọn người nhận có trên hệ thống để thêm vào quy trình xử lý chứng từ</center>
 
 ![Hinh47](./image/Taomoichungtu8.png)
 
-Hình 47: Chọn quyền xử lý chứng từ cho người nhận
+<center>Hình 47: Chọn quyền xử lý chứng từ cho người nhận</center>
 
 Ngoài ra, tại bước này người tạo chứng từ có thể lưu mẫu quy trình này lại để sử dụng cho những lần tạo chứng từ tiếp theo, bằng cách nhấn **“Lưu mẫu quy trình”**, nhập tên mẫu quy trình và nhấn **“Lưu”**
 
 ![Hinh48](./image/Taomoichungtu9.png)
 
-Hình 48: Lưu lại mẫu quy trình
+<center>Hình 48: Lưu lại mẫu quy trình</center>
 
 ![Hinh49](./image/Taomoichungtu10.png)
 
-Hình 49: Hoàn thành bước thêm quy trình người nhận chứng từ
+<center>Hình 49: Hoàn thành bước thêm quy trình người nhận chứng từ</center>
 
 ![Hinh50](./image/Taomoichungtu11.png)
 
-Hình 50: Thông báo cập nhật chứng từ thành công và chuyển sang bước tiếp theo
+<center>Hình 50: Thông báo cập nhật chứng từ thành công và chuyển sang bước tiếp theo</center>
 
 * **Bước 3: Đặt vị trí ký (nếu có)**
   
@@ -93,7 +93,7 @@ Tại bước này, người dùng thực hiện đặt vị trí ký trước c
 
 ![Hinh51](./image/Taomoichungtu12.png)
 
-Hình 51: Đặt vị trí ký và sang bước tiếp theo
+<center>Hình 51: Đặt vị trí ký và sang bước tiếp theo</center>
 
 * **Bước 4: Gửi quy trình và hoàn thành tạo mới chứng từ**
   
@@ -101,26 +101,26 @@ Nhấn “Gửi quy trình” để gửi thông báo xử lý chứng từ cho 
 
 ![Hinh52](./image/Taomoichungtu13.png)
 
-Hình 52: Gửi quy trình xử lý chứng từ cho những người nhận
+<center>Hình 52: Gửi quy trình xử lý chứng từ cho những người nhận</center>
 
 ![Hinh53](./image/Taomoichungtu14.png)
 
-Hình 53: Thông báo gửi quy trình thành công và hoàn thành tạo mới một chứng từ
+<center>Hình 53: Thông báo gửi quy trình thành công và hoàn thành tạo mới một chứng từ</center>
 
 ## 6.2. Tạo mới một chứng từ từ mẫu chứng từ 
 Tạo chứng từ từ mẫu chứng từ là sử dụng tính năng tạo chứng từ trong màn hình Danh sách mẫu chứng từ để chuyển từ file mẫu chứng từ (.docx) thành file chứng từ (.pdf). Để thực hiện tạo mới một chứng từ từ mẫu chứng từ, người dùng cần có tài khoản và đăng nhập vào màn hình Danh sách mẫu chứng từ của hệ thống DocHub, các bước để tạo mới một chứng từ:
 
 ![Hinh54](./image/Taomoichungtu15.png)
 
-Hình 54: Vào màn hình “Danh sách mẫu chứng từ” và Chọn mẫu cần tạo chứng từ
+<center>Hình 54: Vào màn hình “Danh sách mẫu chứng từ” và Chọn mẫu cần tạo chứng từ</center>
 
 ![Hinh55](./image/Taomoichungtu16.png)
 
-Hình 55: Điền giá trị các tham số và nhấn "Hoàn tất & Tạo chứng từ"
+<center>Hình 55: Điền giá trị các tham số và nhấn "Hoàn tất & Tạo chứng từ"</center>
 
 ![Hinh56](./image/Taomoichungtu17.png)
 
-Hình 56: Màn hình tạo mới chứng từ xuất hiện
+<center>Hình 56: Màn hình tạo mới chứng từ xuất hiện</center>
 
 - Tại đây, người dùng thực hiện điền thông tin chứng từ, thêm quy trình xử lý chứng từ, Đặt vị trí ký và Gửi quy trình sau khi tạo xong tương tự như các tạo mới chứng từ từ file PDF (xem hướng dẫn mục “Tạo mới một chứng từ từ file PDF)
 ## 6.3. Import lô chứng từ (Tạo hàng loạt chứng từ có sẵn template)
@@ -131,7 +131,7 @@ Tại màn hình trang chủ, người dùng truy cập “Chứng từ” > “
 
 ![Hinh57](./image/Taomoichungtu18.png)
 
-Hình 57: Màn hình Import lô chứng từ
+<center>Hình 57: Màn hình Import lô chứng từ</center>
 
 * **Bước 2: Mở cửa sổ Import lô chứng từ**
   
@@ -139,7 +139,7 @@ Tại màn hình danh sách Import lô chứng từ (bước 1), nhấn chọn n
 
 ![Hinh58](./image/Taomoichungtu19.png)
 
-Hình 58: Cửa sổ Import lô chứng từ
+<center>Hình 58: Cửa sổ Import lô chứng từ</center>
 
 * **Bước 3: Chọn mẫu chứng từ và Tải xuống file mẫu import lô chứng từ**
   
@@ -156,7 +156,7 @@ Các thông tin cơ bản của chứng từ:
 
 ![Hinh59](./image/Taomoichungtu20.png)
 
-Hình 59: Thông tin cơ bản của các chứng từ trong lô
+<center>Hình 59: Thông tin cơ bản của các chứng từ trong lô</center>
 
 Thông tin quy trình ký:
 * Xử lý tuần tự hay không? (Y: có, N: không)
@@ -172,19 +172,19 @@ Lưu ý phần thông tin quy trình ký:
 
 ![Hinh60](./image/Taomoichungtu21.png)
 
-Hình 60: Thông tin quy trình ký trong lô chứng từ
+<center>Hình 60: Thông tin quy trình ký trong lô chứng từ</center>
 
 Thông tin giá trị các tham số trên chứng từ: Hệ thống tự động tạo file mẫu với các tham số tương ứng với mẫu chứng từ mà người dùng chọn (ở bước 2), người dùng thực hiện điền đầu đủ các giá trị của các tham số vào file import lô chứng từ:
 
 ![Hinh61](./image/Taomoichungtu22.png)
 
-Hình 61: Thông tin các tham số trong lô chứng từ
+<center>Hình 61: Thông tin các tham số trong lô chứng từ</center>
 
 File mẫu lô chứng từ sau khi hoàn tất cập nhật:
 
 ![Hinh62](./image/Taomoichungtu23.png)
 
-Hình 62: File mẫu import lô chứng từ
+<center>Hình 62: File mẫu import lô chứng từ</center>
 
 * **Bước 4: Cập nhật thông tin cửa sổ import lô chứng từ**
 
@@ -197,7 +197,7 @@ Sau khi người dùng đã tải lên lại file import đã cập nhật lên 
 
 ![Hinh63](./image/Taomoichungtu24.png)
 
-Hình 63: Cập nhật đầy đủ thông tin import lô chứng từ
+<center>Hình 63: Cập nhật đầy đủ thông tin import lô chứng từ</center>
 
 * **Bước 5: Import và gửi lô chứng từ**
 
@@ -207,22 +207,22 @@ Hệ thống thông báo import lô chứng từ thành công sau khi tạo mớ
 
 ![Hinh64](./image/Taomoichungtu25.png)
 
-Hình 64: Import lô chứng từ thành công
+<center>Hình 64: Import lô chứng từ thành công</center>
 
 Nhấn nút “Gửi quy trình” để thực hiện gửi quy trình xử lý cho những người nhận trong lô chứng từ:
 
 ![Hinh65](./image/Taomoichungtu26.png)
 
-Hình 65: Màn hình danh sách lô chứng từ sau khi import thành công
+<center>Hình 65: Màn hình danh sách lô chứng từ sau khi import thành công</center>
 
 Kiểm tra và nhấn “Xác nhận” để hoàn tất gửi quy trình hàng loạt cho lô chứng từ:
 
 ![Hinh66](./image/Taomoichungtu27.png)
 
-Hình 66: Màn hình xác nhận gửi quy trình lô chứng từ
+<center>Hình 66: Màn hình xác nhận gửi quy trình lô chứng từ</center>
 
 Thông báo gửi quy trình hàng loạt cho lô chứng từ thành công:
 
 ![Hinh67](./image/Taomoichungtu28.png)
 
-Hình 67: Thông báo gửi quy trình thành công
+<center>Hình 67: Thông báo gửi quy trình thành công</center>
