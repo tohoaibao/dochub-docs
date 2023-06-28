@@ -34,7 +34,7 @@ import '@docsearch/css';
 docsearch({
   container: '#docsearch',
   appId: 'JILNIO12KM',
-  indexName: 'crawler_DocHub_AlgoliaDocSearch',
+  indexName: 'DocHub_AlgoliaDocSearch',
   apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
   searchParameters: {
     facetFilters: ['language:en', 'version:1.0.0'],
