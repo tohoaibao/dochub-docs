@@ -1,7 +1,7 @@
 {
   "index_name": "DocHub_AlgoliaDocSearch",
   "start_urls": [
-    "https://dochub-docs.vercel.app"
+    "https://dochub-docs.vercel.app/"
   ],
   "sitemap_urls": [
     "https://dochub-docs.vercel.app/sitemap.xml"
