@@ -70,7 +70,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
   
-        indexName: 'Dangnhap',
+        indexName: 'hub-vercel',
   
         // Optional: see doc section below
         contextualSearch: true,
