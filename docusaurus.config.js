@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DocHub',
   // tagline: 'Dinosaurs are cool',
-  favicon: ".\img\Faviicon.ico",
+  favicon: "img/Faviicon.ico",
 
   // Set the production url of your site here
   url: "https://dochub-docs.vercel.app/",
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'DocHub', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -68,7 +68,7 @@ const config = {
         appId: 'JILNIO12KM',
   
         // Public API key: it is safe to commit it
-        apiKey: '1561f389dce2ad66c931c3edca96fe67',
+        apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
   
         indexName: 'Dangnhap',
   
