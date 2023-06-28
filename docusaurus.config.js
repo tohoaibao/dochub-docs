@@ -70,7 +70,7 @@ const config = {
         // Public API key: it is safe to commit it
         apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
   
-        indexName: 'DocHub_crawler',
+        indexName: 'Dangnhap',
   
         // Optional: see doc section below
         contextualSearch: true,
@@ -97,7 +97,7 @@ const config = {
         // title: 'Tài liệu hướng dẫn sử dụng DocHub1',
         logo: {
           alt: 'DocHub',
-          src: 'img/logo.jpg',
+          src: 'img/Logo.jpg',
         },
         items: [
           {
