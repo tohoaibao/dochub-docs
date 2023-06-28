@@ -31,16 +31,16 @@ import '@docsearch/css';
 
 
 
-docsearch({
-  container: '#docsearch',
-  appId: 'JILNIO12KM',
-  indexName: 'DocHub_AlgoliaDocSearch',
-  apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
-  searchParameters: {
-    facetFilters: ['language:en', 'version:1.0.0'],
-  },
-  insights: true,
-});
+// docsearch({
+//   container: '#docsearch',
+//   appId: 'JILNIO12KM',
+//   indexName: 'DocHub_AlgoliaDocSearch',
+//   apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
+//   searchParameters: {
+//     facetFilters: ['language:en', 'version:1.0.0'],
+//   },
+//   insights: true,
+// });
 
 // docsearch({
 //   appId: 'R2IYF7ETH7',
@@ -51,3 +51,23 @@ docsearch({
 //   },
 //   insights: true,
 // });
+
+docsearch({
+
+
+  appId: 'JILNIO12KM',
+
+
+  apiKey: '1561f389dce2ad66c931c3edca96fe67',
+
+
+  indexName: 'Dangnhap',
+
+
+  container: '#docsearch',
+
+
+  debug: false // Set debug to true if you want to inspect the modal
+
+
+});
