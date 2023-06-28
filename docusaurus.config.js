@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DocHub',
   // tagline: 'Dinosaurs are cool',
-  favicon: "./img/Faviicon.ico",
+  favicon: "img/Faviicon.ico",
 
   // Set the production url of your site here
   url: "https://dochub-docs.vercel.app/",
@@ -18,7 +18,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'DocHub', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -68,9 +68,15 @@ const config = {
         appId: 'Q6DUGWDRO5',
   
         // Public API key: it is safe to commit it
+<<<<<<< HEAD
         apiKey: 'afbde3a0d7b2cfe70d85e87fdedc7c9a',
   
         indexName: 'Huongdan',
+=======
+        apiKey: 'aa89dd1d83c67f3432bfee0e3be1b994',
+  
+        indexName: 'crawler_DocHub_crawler',
+>>>>>>> refs/remotes/origin/master
   
         // Optional: see doc section below
         contextualSearch: true,
@@ -80,10 +86,10 @@ const config = {
         externalUrlRegex: 'external\\.com|domain\\.com',
   
         // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-        replaceSearchResultPathname: {
-          from: '/docs/', // or as RegExp: /\/docs\//
-          to: '/',
-        },
+        // replaceSearchResultPathname: {
+        //   from: '/docs/', // or as RegExp: /\/docs\//
+        //   to: '/',
+        // },
   
         // Optional: Algolia search parameters
         searchParameters: {},
@@ -97,7 +103,7 @@ const config = {
         // title: 'Tài liệu hướng dẫn sử dụng DocHub1',
         logo: {
           alt: 'DocHub',
-          src: 'img/logo.svg',
+          src: 'img/Logo.jpg',
         },
         items: [
           {
